@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+COMMUNICATION is key!
 Use the right arrow to begin!
