@@ -1,8 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "COMMUNICATION is key!"
 ---
 
-COMMUNICATION is key!
 
 Use the right arrow to begin!
